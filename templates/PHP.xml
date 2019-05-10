@@ -1,0 +1,14 @@
+<templateSet group="PHP">
+  <template name="dmp" value="\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($VAR$); $END$" description="var_dump with TYPO3 DebuggingUtility" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tstamp" value="$timestamp$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="timestamp" expression="groovyScript(&quot;(int) (System.currentTimeMillis() / 1000L);&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,18 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup>
+      <record scheme="ssh" hostname="bitbucket.org" port="-1" instance="Production" />
+    </lookup>
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="dfbaddb9-2ee6-36f2-b07a-58adddffe225" baseUri="https://source.alternet.nl:443/" />
+      <instance uuid="2a1a2289-38cd-3273-84a6-ba9b341b9184" baseUri="https://git.redkiwi.nl:443/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="git.redkiwi.nl" port="7999" path="/" uuid="2a1a2289-38cd-3273-84a6-ba9b341b9184" />
+      <record scheme="ssh" hostname="source.alternet.nl" port="7999" path="/" uuid="dfbaddb9-2ee6-36f2-b07a-58adddffe225" />
+    </lookup>
+  </component>
+  <component name="Instance" id="d06efff2-f220-4f9b-860b-9ad0d8624a22" version="6.4" />
+</application>

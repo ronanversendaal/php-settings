@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="Tool_External Tools_PHP Fixer">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+</keymap>

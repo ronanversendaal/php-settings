@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" #if(${TARGET_LANG} != '') target-language="${TARGET_LANG}" #else #end datatype="plaintext" original="messages" product-name="${EXTKEY}">        
+    <header/>
+        <body>
+            <trans-unit>
+                <source></source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
