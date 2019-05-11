@@ -1,0 +1,15 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="3" />
+      </DonationNagger>
+    </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="sortType" value="SHUFFLE" />
+      </SortSettings>
+    </option>
+    <option name="version" value="2" />
+  </component>
+</application>
