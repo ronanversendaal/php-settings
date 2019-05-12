@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="PHP Fixer" description="A refactoring tool that executes php-cs-fixer on staged files." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/development/RefactorFolder/refactor.sh" />
-      <option name="PARAMETERS" />
+      <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="fix --rules=@PSR2 --verbose &quot;$FileDir$/$FileName$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
