@@ -19,6 +19,7 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="SQL" />
       <mapping ext="xlf" type="XML" />
       <mapping pattern="CONTENTBE" type="Fluid" />
       <mapping pattern="ContactPerson" type="Fluid" />
