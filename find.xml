@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../www/typo3conf/ext/boskalis_content_elements/Classes/Controller/RecordListPreviewController.php [typo3-projects-boskalis]'" />
+    <option name="defaultScopeName" value="File '.../www/typo3conf/ext/boskalis_content_elements/Classes/Controller/RecordListPreviewController.php [typo3-projects-boskalis]'" />
+    <option name="SEARCH_SCOPE" value="File '.../www/typo3conf/ext/boskalis_content_elements/Classes/Controller/RecordListPreviewController.php [typo3-projects-boskalis]'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
