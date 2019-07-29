@@ -62,7 +62,7 @@
           <IdeaActionID>$Cut</IdeaActionID>
           <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
           <Description>Cut</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -102,7 +102,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -177,6 +177,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
@@ -222,7 +230,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>23</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
     </option>
