@@ -16,6 +16,7 @@
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="MOVE_TRANSLATED_FILES_TO_HERE" type="PLAIN_TEXT" />
+      <mapping pattern="copy_config" type="PLAIN_TEXT" />
       <mapping pattern="tail-log" type="PLAIN_TEXT" />
       <mapping pattern="TestWidget.php" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
