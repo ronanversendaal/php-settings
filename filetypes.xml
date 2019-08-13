@@ -22,6 +22,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="._READY_TO_RM" type="PLAIN_TEXT" />
+      <mapping pattern="pullit_mysql" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
