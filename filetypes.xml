@@ -1,14 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="mysql_be_users" type="Bash" />
       <mapping pattern="ContactPerson" type="Fluid" />
       <mapping pattern="CONTENTBE" type="Fluid" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="HighlightedSpecial" type="PHP" />
       <mapping pattern="RelationshipManagementDataProcessor" type="PHP" />
+      <mapping pattern="mysql_sys_domain" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="ENABLE_INSTALL_TOO:L" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
+      <mapping pattern="cache_flush" type="PLAIN_TEXT" />
       <mapping pattern="Example.html" type="PLAIN_TEXT" />
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
