@@ -1,0 +1,26 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <global-watchers>
+      <TaskOptions>
+        <option name="arguments" value="exec ./vendor/bin/typo3cms cache:flush" />
+        <option name="checkSyntaxErrors" value="true" />
+        <option name="description" />
+        <option name="exitCodeBehavior" value="ERROR" />
+        <option name="fileExtension" value="*" />
+        <option name="immediateSync" value="true" />
+        <option name="name" value="Default File watcher" />
+        <option name="output" value="" />
+        <option name="outputFilters">
+          <array />
+        </option>
+        <option name="outputFromStdout" value="false" />
+        <option name="program" value="ddev" />
+        <option name="runOnExternalChanges" value="false" />
+        <option name="scopeName" value="Project Files" />
+        <option name="trackOnlyRoot" value="false" />
+        <option name="workingDir" value="$ProjectFileDir$" />
+        <envs />
+      </TaskOptions>
+    </global-watchers>
+  </component>
+</application>
