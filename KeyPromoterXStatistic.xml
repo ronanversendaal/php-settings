@@ -337,6 +337,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12' or '⌃⌘T'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="View Breakpoints...">
         <Item>
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
