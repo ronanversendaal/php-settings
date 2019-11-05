@@ -2,29 +2,32 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="mysql_be_users" type="Bash" />
+      <mapping pattern="ContactPerson" type="Fluid" />
+      <mapping pattern="CONTENTBE" type="Fluid" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="HighlightedSpecial" type="PHP" />
       <mapping pattern="RelationshipManagementDataProcessor" type="PHP" />
+      <mapping pattern="mysql_sys_domain" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="ENABLE_INSTALL_TOO:L" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
-      <mapping pattern="cache_flush" type="PLAIN_TEXT" />
-      <mapping pattern="mysql_sys_domain" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping pattern="cache_flush" type="PLAIN_TEXT" />
+      <mapping pattern="TestWidget.php" type="PLAIN_TEXT" />
+      <mapping pattern="Example.html" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="init-project" type="PLAIN_TEXT" />
       <mapping pattern="MOVE_TRANSLATED_FILES_TO_HERE" type="PLAIN_TEXT" />
       <mapping pattern="copy_config" type="PLAIN_TEXT" />
-      <mapping pattern="sync" type="PLAIN_TEXT" />
       <mapping pattern="tail-log" type="PLAIN_TEXT" />
-      <mapping pattern="TestWidget.php" type="PLAIN_TEXT" />
+      <mapping pattern="sync" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="cache:flush" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping pattern="._READY_TO_RM" type="PLAIN_TEXT" />
       <mapping pattern="pullit_mysql" type="PLAIN_TEXT" />
-      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
-      <mapping pattern="Example.html" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
@@ -33,8 +36,6 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="xlf" type="XML" />
-      <mapping pattern="CONTENTBE" type="Fluid" />
-      <mapping pattern="ContactPerson" type="Fluid" />
     </extensionMap>
   </component>
 </application>
