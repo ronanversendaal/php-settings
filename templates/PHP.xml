@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="dmp" value="\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($VAR$); $END$" description="var_dump with TYPO3 DebuggingUtility" toReformat="false" toShortenFQNames="true">
+  <template name="dumpling" value="\TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($VAR$); $END$" description="var_dump with TYPO3 DebuggingUtility" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
@@ -7,6 +7,31 @@
   </template>
   <template name="tstamp" value="$timestamp$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="timestamp" expression="groovyScript(&quot;(int) (System.currentTimeMillis() / 1000L);&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="gooiling" value="throw new $END$" description="throw new" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="sterveling" value="var_dump($VAR$); die($END$);" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vangling" value="try {&#10;    $END$&#10;} catch($VAR$ $e) {&#10;    $VAR2$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="kees" value="switch($VAR$) {&#10;    case $VAR2$:&#10;        break;&#10;    default:&#10;        $END$&#10;        break;&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
