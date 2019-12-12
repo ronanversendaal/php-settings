@@ -7,6 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,9 +21,9 @@
     <mask>*.txt</mask>
     <mask>*.sqler</mask>
     <mask>*.sql</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
     <mask>*.xlf</mask>
+    <mask>*.html</mask>
   </component>
 </application>
