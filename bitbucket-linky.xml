@@ -6,10 +6,12 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
+      <instance uuid="8ab9a3a8-74d6-379e-aa78-cf21db23efc1" baseUri="https://bitbucket.typo3.com/" />
       <instance uuid="dfbaddb9-2ee6-36f2-b07a-58adddffe225" baseUri="https://source.alternet.nl:443/" />
       <instance uuid="2a1a2289-38cd-3273-84a6-ba9b341b9184" baseUri="https://git.redkiwi.nl:443/" />
     </instances>
     <lookup>
+      <record scheme="https" hostname="bitbucket.typo3.com" port="-1" path="/" uuid="8ab9a3a8-74d6-379e-aa78-cf21db23efc1" />
       <record scheme="ssh" hostname="git.redkiwi.nl" port="7999" path="/" uuid="2a1a2289-38cd-3273-84a6-ba9b341b9184" />
       <record scheme="ssh" hostname="source.alternet.nl" port="7999" path="/" uuid="dfbaddb9-2ee6-36f2-b07a-58adddffe225" />
     </lookup>
