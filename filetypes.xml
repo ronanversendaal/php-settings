@@ -35,7 +35,9 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="typoscript" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
+      <removed_mapping ext="typoscript" type="TypoScript File" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
   </component>
