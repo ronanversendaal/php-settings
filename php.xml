@@ -8,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="d77b5a16-716c-41af-b295-62e87b9da81e" name="PHP 7.1" home="/usr/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="f8e5e1d9-debe-4139-9ad9-e680c063d35f" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.15/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="f8e5e1d9-debe-4139-9ad9-e680c063d35f" name="PHP 7.2" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -87,7 +87,11 @@
           <configuration_options>
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.15/share/php@7.2/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.9.0">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="OAuth" />
@@ -148,6 +152,7 @@
             <extension name="tidy" />
             <extension name="tokenizer" />
             <extension name="wddx" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
