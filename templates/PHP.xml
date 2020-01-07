@@ -36,7 +36,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="test" value="public function test$VAR$()&#10;{&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="public function test$VAR$()&#10;{&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
