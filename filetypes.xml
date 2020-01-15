@@ -6,6 +6,7 @@
       <mapping pattern="CONTENTBE" type="Fluid" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="HighlightedSpecial" type="PHP" />
+      <mapping pattern="TestingModuleController" type="PHP" />
       <mapping pattern="RelationshipManagementDataProcessor" type="PHP" />
       <mapping pattern="mysql_sys_domain" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />

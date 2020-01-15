@@ -11,14 +11,14 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.phtml</mask>
-    <mask>*.php</mask>
-    <mask>*.xlf</mask>
-    <mask>*.scss</mask>
     <mask>*.txt</mask>
     <mask>*.sqler</mask>
     <mask>*.sql</mask>
-    <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*.js</mask>
+    <mask>*.xlf</mask>
+    <mask>*.html</mask>
+    <mask>*.scss</mask>
+    <mask>*.php</mask>
   </component>
 </application>
