@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="mysql_be_users" type="Bash" />
       <mapping pattern="ContactPerson" type="Fluid" />
       <mapping pattern="CONTENTBE" type="Fluid" />
       <mapping pattern="HighlightedSpecial" type="PHP" />
@@ -37,6 +36,7 @@
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="xlf" type="XML" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="mysql_be_users" type="Bash" />
     </extensionMap>
   </component>
 </application>
