@@ -1,5 +1,5 @@
 <templateSet group="Other">
-  <template name="tstamp" value="$timestamp$" toReformat="false" toShortenFQNames="true">
+  <template name="tstamp" value="$timestamp$" description="" toReformat="false" toShortenFQNames="true">
     <variable name="timestamp" expression="groovyScript(&quot;(int) (System.currentTimeMillis() / 1000L);&quot;)" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
