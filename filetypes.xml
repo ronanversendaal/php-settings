@@ -6,6 +6,7 @@
       <mapping pattern="HighlightedSpecial" type="PHP" />
       <mapping pattern="TestingModuleController" type="PHP" />
       <mapping pattern="RelationshipManagementDataProcessor" type="PHP" />
+      <mapping pattern="Example.html" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="ENABLE_INSTALL_TOO:L" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
@@ -25,7 +26,6 @@
       <mapping pattern="cache:flush" type="PLAIN_TEXT" />
       <mapping pattern="._READY_TO_RM" type="PLAIN_TEXT" />
       <mapping pattern="pullit_mysql" type="PLAIN_TEXT" />
-      <mapping pattern="Example.html" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
