@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="hassio.local" id="f1f8faa8-a266-4415-a289-dbdf2b3acf4e" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Hassio" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
