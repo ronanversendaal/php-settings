@@ -12,7 +12,6 @@
       <mapping pattern="sync" type="PLAIN_TEXT" />
       <mapping pattern="cache_flush" type="PLAIN_TEXT" />
       <mapping pattern="Example.html" type="PLAIN_TEXT" />
-      <mapping pattern="INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="TestWidget.php" type="PLAIN_TEXT" />
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
@@ -24,6 +23,7 @@
       <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="cache:flush" type="PLAIN_TEXT" />
+      <mapping pattern="INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="._READY_TO_RM" type="PLAIN_TEXT" />
       <mapping pattern="pullit_mysql" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
