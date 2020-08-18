@@ -35,8 +35,8 @@
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="SQL" />
       <mapping ext="xlf" type="XML" />
