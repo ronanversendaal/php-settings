@@ -36,6 +36,7 @@
       <sshConfig host="hassio.local" id="40f35179-b965-4a0b-af95-02952aeedd01" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Hassio" nameFormat="CUSTOM" />
       <sshConfig host="hassio.local" id="57c100ca-d65d-4a4e-854b-0e840b807ae0" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Hassio" nameFormat="CUSTOM" />
       <sshConfig host="hassio.local" id="6a42f09c-aad0-4e7d-aacb-61fa81299b95" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Hassio" nameFormat="CUSTOM" />
+      <sshConfig host="hassio.local" id="fd8ee4e1-6a28-4c57-adad-fcc7f2ee4d3a" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Hassio" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
