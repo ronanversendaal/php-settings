@@ -33,6 +33,7 @@
       <mapping pattern="pullit_mysql" type="PLAIN_TEXT" />
       <mapping pattern="Content-Only" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
