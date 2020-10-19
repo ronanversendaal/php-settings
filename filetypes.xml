@@ -20,6 +20,7 @@
       <mapping pattern="ENABLE_INSTALL_TOO:L" type="PLAIN_TEXT" />
       <mapping pattern="reset-schema" type="PLAIN_TEXT" />
       <mapping pattern="varnishlog" type="PLAIN_TEXT" />
+      <mapping pattern="ResolveMediaObjectContentUrlSubscriber" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="copy_config" type="PLAIN_TEXT" />
