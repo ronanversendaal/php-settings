@@ -32,7 +32,6 @@
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="mysql_sys_domain" type="PLAIN_TEXT" />
       <mapping pattern="reset-schema" type="PLAIN_TEXT" />
-      <mapping pattern="init-project" type="PLAIN_TEXT" />
       <mapping pattern="varnishlog" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="reset-db" type="PLAIN_TEXT" />
