@@ -8,9 +8,9 @@
       <mapping pattern="HighlightedSpecial" type="PHP" />
       <mapping pattern="sync" type="PLAIN_TEXT" />
       <mapping pattern="pullit_mysql" type="PLAIN_TEXT" />
-      <mapping pattern="ENABLE_INSTALL_TOO:L" type="PLAIN_TEXT" />
-      <mapping pattern="MOVE_TRANSLATED_FILES_TO_HERE" type="PLAIN_TEXT" />
       <mapping pattern="php-cs-fixer" type="PLAIN_TEXT" />
+      <mapping pattern="MOVE_TRANSLATED_FILES_TO_HERE" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOO:L" type="PLAIN_TEXT" />
       <mapping pattern="copy_config" type="PLAIN_TEXT" />
       <mapping pattern="._READY_TO_RM" type="PLAIN_TEXT" />
       <mapping pattern="cache_flush" type="PLAIN_TEXT" />
