@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="php_cs" type="AUTO_DETECTED" />
       <mapping pattern="CONTENTBE" type="Fluid" />
       <mapping pattern="ContactPerson" type="Fluid" />
       <mapping pattern="TestingModuleController" type="PHP" />
