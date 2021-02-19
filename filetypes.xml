@@ -25,9 +25,9 @@
       <mapping pattern="reset-schema" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="varnishlog" type="PLAIN_TEXT" />
-      <mapping pattern="Example.html" type="PLAIN_TEXT" />
-      <mapping pattern="ResolveMediaObjectContentUrlSubscriber" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
+      <mapping pattern="ResolveMediaObjectContentUrlSubscriber" type="PLAIN_TEXT" />
+      <mapping pattern="Example.html" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="gulp" type="PLAIN_TEXT" />
       <mapping pattern="reset-db" type="PLAIN_TEXT" />
