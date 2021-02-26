@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xlf" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,11 +17,11 @@
     <mask>*.txt</mask>
     <mask>*.sqler</mask>
     <mask>*.ts</mask>
-    <mask>*.xlf</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.xlf</mask>
   </component>
 </application>
