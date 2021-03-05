@@ -23,6 +23,7 @@
       <mapping pattern="cache:flush" type="PLAIN_TEXT" />
       <mapping pattern="reset-schema" type="PLAIN_TEXT" />
       <mapping pattern="INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="varnishlog" type="PLAIN_TEXT" />
       <mapping pattern="Example.html" type="PLAIN_TEXT" />
       <mapping pattern="ResolveMediaObjectContentUrlSubscriber" type="PLAIN_TEXT" />
@@ -35,6 +36,7 @@
       <mapping pattern="tail-log" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="typoscript" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
