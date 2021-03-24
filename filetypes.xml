@@ -31,7 +31,6 @@
       <mapping pattern="Example.html" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping pattern="gulp" type="PLAIN_TEXT" />
-      <mapping pattern="reset-db" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="Tmp" type="PLAIN_TEXT" />
       <mapping pattern="tail-log" type="PLAIN_TEXT" />
